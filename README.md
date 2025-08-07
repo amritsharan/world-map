@@ -36,9 +36,6 @@ world-map/
 ├── script.js # JavaScript code with Leaflet logic
 └── README.md # Project documentation (this file)
 
-yaml
-Copy
-Edit
 
 ---
 
